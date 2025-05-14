@@ -4,7 +4,7 @@
 - Git y GitHub
 - UML con PlantUML
 - Docker (para virtualización si se aplica)
-- Principios de diseño (Clean Architecture, 5S, etc.)
+- Principios de diseño (Clean Architecture, Principios Solid, etc.)
 - Documentación técnica en Markdown
 ---
 ##Estado del Proyecto
