@@ -26,5 +26,4 @@ Este proyecto aplica contenido basado en:
 - Barros Nazareno - Diseño y desarrollo
 - [Barros Nazareno, Altava Julian, Calvente Matias]
 ---
-
 Proyecto de mejorar el SysAcad segun principios de arquitectura y diseño limpio.
