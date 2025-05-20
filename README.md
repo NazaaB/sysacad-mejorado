@@ -1,18 +1,21 @@
 # sysacad-mejorado
 ---
-##Herramientas y Tecnologías
+
+## Herramientas y Tecnologías
 - Git y GitHub
 - UML con PlantUML
 - Docker (para virtualización si se aplica)
 - Principios de diseño (Clean Architecture, Principios Solid, etc.)
 - Documentación técnica en Markdown
 ---
-##Estado del Proyecto
+
+## Estado del Proyecto
 - Análisis de la versión original de SysAcad
 - Identificación de reglas no cumplidas
 - Rediseño arquitectónico en progreso
 - Refactorización y desarrollo del nuevo código
 ---
+
 ## Teoría Aplicada
 Este proyecto aplica contenido basado en:
 - Diseño de sistemas y arquitectura multicapa
@@ -22,8 +25,14 @@ Este proyecto aplica contenido basado en:
 - Virtualización y contenedores (Docker)
 - Diagramas UML y documentación técnica
 ---
-##Integrantes
+
+## Integrantes
 - Barros Nazareno - Diseño y desarrollo
-- [Barros Nazareno, Altava Julian, Calvente Matias]
+- Barros Nazareno, Altava Julian, Calvente Matias
 ---
-Proyecto de mejorar el SysAcad segun principios de arquitectura y diseño limpio.
+
+Proyecto de mejorar el SysAcad según principios de arquitectura y diseño limpio.
+
+# SYSACAD
+
+6b2451c (Subida la carpeta inicial con la cual vamos a trabajar, tiene un test creado pero en proceso sin los models)
